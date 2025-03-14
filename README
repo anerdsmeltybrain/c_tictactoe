@@ -1,0 +1,11 @@
+#This is tic tac toe in C
+***
+
+I'm happy to share this code as I'm learning more and more to escape tutorial hell
+and why using scanf is a pain the ass to use :D
+
+> to compile do 
+> cc main.c
+> ./a.out
+
+
